@@ -4,6 +4,7 @@ import YanAPI
 # Inicializa a API localmente no Raspberry Pi do robô
 YanAPI.yan_api_init("127.0.0.1")
 
+# Teste luis
 # Sequência do Heian Shodan adaptada aos movimentos base do Yanshee
 coreografia_heian_shodan = [
     ("Reset", 2),               # Yoi: Postura de atenção e preparação
