@@ -7,7 +7,7 @@ Este projeto tem como objetivo programar o robô educacional Ubtech Yanshee para
 ## Ambiente
 
 * **Hardware:** Robô Ubtech Yanshee (equipado com Raspberry Pi e 1GB de RAM).
-* **Linguagem:** Python.
+* **Linguagem:** Python 3.5.3
 * **Biblioteca:** `YanAPI` para interface e controle de movimentos.
 
 ## Estrutura
